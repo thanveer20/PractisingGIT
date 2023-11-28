@@ -1,0 +1,10 @@
+Steps to add folder into GitHub :-
+
+git init
+git add .
+git commit -m "Enter Your Message Here"
+git branch -M main
+git remote add origin https://PASTE YOUR LINK
+git push -u origin main
+
+And then login
